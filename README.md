@@ -1,3 +1,9 @@
+# Key Learnings 
+ End to end data pipeline from API to visualization
+ Feature engineering from audio metrics 
+ Model evaluation with real world music data 
+ Clear communication of results through dashboards
+ 
 #Project Objectives 
 - Extract music data( tracks, audio features, artits,popularity using Spotifys API
 - Analyze and clean the data using Python(Pandas,NumPy).
